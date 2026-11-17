@@ -1,0 +1,10 @@
+# ignore everything by default
+*
+
+# ...except these
+!.gitignore
+!app.py
+!rag.py
+!requirements.txt
+!README.md
+!.env.example
